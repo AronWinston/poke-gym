@@ -15,13 +15,17 @@ h1 {
     height: 200px; }
 
 .row {
-  margin-left: 70px; }
+  margin-left: 70px;
+  padding:inherit;
+}
 
 .text {
   background-color: lightblue;
   border-radius: .25em;
   border: 2px solid yellow;
-  opacity: 0; }
+  opacity: 0;
+  padding: 1rem;
+}
 
 .name {
   display: flex;
