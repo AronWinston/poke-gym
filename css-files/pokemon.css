@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Unlock");
 body {
   background: fixed;
-  background-image: url("https://vignette.wikia.nocookie.net/fantendo/images/b/b7/Crimson_Clash_Arena_Icon_Pokemon_Stadium.png/revision/latest?cb=20161122170814");
+  background-image: url("https://i.imgur.com/Z3ldLGv.jpg");
   background-size: cover;
   background-position: center;
   font-family: 'Unlock', cursive; }
@@ -20,12 +20,16 @@ h1 {
 }
 
 .text {
-  background-color: lightblue;
+  background-color: #4D7BFD;
   border-radius: .25em;
+
   border: 2px solid yellow;
   opacity: 0;
   padding: 1rem;
 }
+
+ 
+
 
 .name {
   display: flex;
