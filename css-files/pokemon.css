@@ -50,6 +50,14 @@ h1 {
   margin: 20px;
   opacity: 0; }
 
+.poke:hover {
+  box-shadow: 2px 8px 45px rgba(0, 0, 0, 0.15);
+  transform: translate3D(0, -2px, 0); }
+
+.text:hover {
+  box-shadow: 2px 8px 45px rgba(0, 0, 0, 0.15);
+  transform: translate3D(0, -2px, 0); }
+
 .poke.reveal {
   animation: reveal;
   animation-duration: 1s;
