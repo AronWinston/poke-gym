@@ -25,4 +25,8 @@ h1 {
   box-shadow: 2px 8px 45px rgba(0, 0, 0, 0.15);
   transform: translate3D(0, -2px, 0); }
 
+.card-body:hover {
+  box-shadow: 2px 8px 45px rgba(0, 0, 0, 0.15);
+  transform: translate3D(0, -2px, 0); }
+
 /*# sourceMappingURL=index.css.map */
