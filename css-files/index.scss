@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Unlock');
+@import url('https://fonts.googleapis.com/css?family=VT323');
 
 body{
     background: fixed;
     background-image: url("https://i.imgur.com/Z3ldLGv.jpg");
     background-size: cover;
     background-position: center;
-    font-family: 'Unlock', cursive;
+    font-family: 'VT323', monospace;
+    font-size:1.5em;
     }
 
 h1{
@@ -24,3 +25,7 @@ h1{
     border:2px solid black;
     border-radius: .25rem;
 }
+.cards:hover {
+    box-shadow: 2px 8px 45px rgba(0, 0, 0, .15);
+    transform: translate3D(0, -2px, 0);
+   }
