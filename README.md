@@ -2,13 +2,6 @@
 
 poke-gym was a collaboration of multiple personal pokedex projects.  Myself along with my partner, Christine, worked together remotely to create one application which utilized code from both of our Pokedex projects.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
 
 ## Usage
 
